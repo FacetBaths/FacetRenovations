@@ -1,9 +1,120 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Homepage - Highest Priority -->
   <url>
     <loc>https://facetrenovations.us/</loc>
-    <lastmod>2025-02-05</lastmod>
+    <lastmod>2025-09-13T00:26:52-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+  </url>
+  
+  <!-- Future Service Pages -->
+  <url>
+    <loc>https://facetrenovations.us/services</loc>
+    <lastmod>2025-09-13T00:26:52-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://facetrenovations.us/services/bathroom-remodeling</loc>
+    <lastmod>2025-09-13T00:26:52-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <url>
+    <loc>https://facetrenovations.us/services/tub-to-shower-conversion</loc>
+    <lastmod>2025-09-13T00:26:52-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://facetrenovations.us/services/shower-installation</loc>
+    <lastmod>2025-09-13T00:26:52-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Future Information Pages -->
+  <url>
+    <loc>https://facetrenovations.us/portfolio</loc>
+    <lastmod>2025-09-13T00:26:52-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://facetrenovations.us/about</loc>
+    <lastmod>2025-09-13T00:26:52-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://facetrenovations.us/contact</loc>
+    <lastmod>2025-09-13T00:26:52-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <!-- Service Areas -->
+  <url>
+    <loc>https://facetrenovations.us/service-areas</loc>
+    <lastmod>2025-09-13T00:26:52-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://facetrenovations.us/service-areas/chicago</loc>
+    <lastmod>2025-09-13T00:26:52-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://facetrenovations.us/service-areas/libertyville</loc>
+    <lastmod>2025-09-13T00:26:52-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <!-- Support Pages -->
+  <url>
+    <loc>https://facetrenovations.us/faq</loc>
+    <lastmod>2025-09-13T00:26:52-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://facetrenovations.us/reviews</loc>
+    <lastmod>2025-09-13T00:26:52-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://facetrenovations.us/financing</loc>
+    <lastmod>2025-09-13T00:26:52-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <!-- Legal Pages -->
+  <url>
+    <loc>https://facetrenovations.us/privacy-policy</loc>
+    <lastmod>2025-09-13T00:26:52-05:00</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  
+  <url>
+    <loc>https://facetrenovations.us/terms-of-service</loc>
+    <lastmod>2025-09-13T00:26:52-05:00</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
   </url>
 </urlset>

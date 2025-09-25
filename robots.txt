@@ -1,4 +1,11 @@
 User-agent: *
 Allow: /
 
+# Block non-public areas if they exist
+Disallow: /admin/
+Disallow: /api/
+Disallow: /internal/
+Disallow: /.git/
+
+# Sitemap
 Sitemap: https://facetrenovations.us/sitemap.xml

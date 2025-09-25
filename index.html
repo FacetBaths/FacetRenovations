@@ -32,10 +32,15 @@
   <script type="application/ld+json">
       {
         "@context": "https://schema.org",
-        "@type": "LocalBusiness",
+        "@type": ["LocalBusiness", "HomeAndConstructionBusiness"],
         "name": "Facet Renovations",
-        "image": "https://facetrenovations.us/logo.svg",
-        "description": "Luxury bathroom remodeling services in Chicago and surrounding areas.",
+        "alternateName": "Facet Renovations LLC",
+        "@id": "https://g.page/facet-renovations",
+        "image": [
+          "https://facetrenovations.us/logo.svg",
+          "https://facetrenovations.us/social-share.png"
+        ],
+        "description": "Premier luxury bathroom remodeling contractor serving Chicago and Northern Illinois. Specializing in custom bathroom renovations, tub-to-shower conversions, and high-end bathroom design with smart home integration.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "1930 Innovation Way",
@@ -46,26 +51,210 @@
         },
         "geo": {
           "@type": "GeoCoordinates",
-          "latitude": 42.2831,
-          "longitude": -87.9532
+          "latitude": 42.2888513,
+          "longitude": -87.9996365
         },
         "url": "https://facetrenovations.us",
+        "sameAs": [
+          "https://g.page/facet-renovations",
+          "https://www.google.com/maps/place/Facet+Renovations/@42.2888513,-88.0022114,17z/data=!3m1!4b1!4m6!3m5!1s0x880f97946a66ccc1:0xd92fe4922253f154!8m2!3d42.2888513!4d-87.9996365!16s%2Fg%2F11m5qv81yv",
+          "https://www.facebook.com/facetrenovations",
+          "https://www.homeadvisor.com/rated.FacetRenovations.153784443.html",
+          "https://www.angi.com/companylist/us/il/crystal-lake/facet-renovations-reviews-1.htm",
+          "https://x.com/FacetRenovation"
+        ],
         "telephone": "+17732345911",
-        "priceRange": "$$",
-        "openingHoursSpecification": {
-          "@type": "OpeningHoursSpecification",
-          "dayOfWeek": [
-            "Monday",
-            "Tuesday",
-            "Wednesday",
-            "Thursday",
-            "Friday"
-          ],
-          "opens": "09:00",
-          "closes": "17:00"
+        "faxNumber": "+17732345911",
+        "email": "info@facetrenovations.us",
+        "foundingDate": "2020",
+        "knowsAbout": [
+          "Bathroom Remodeling",
+          "Tub to Shower Conversion",
+          "Luxury Bathroom Design",
+          "Smart Home Integration",
+          "Home Renovation"
+        ],
+        "priceRange": "$$-$$$",
+        "currenciesAccepted": "USD",
+        "paymentAccepted": [
+          "Cash",
+          "Check",
+          "Credit Card",
+          "Financing Available"
+        ],
+        "openingHoursSpecification": [
+          {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": "Monday",
+            "opens": "09:00",
+            "closes": "17:00"
+          },
+          {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": "Tuesday",
+            "opens": "09:00",
+            "closes": "17:00"
+          },
+          {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": "Wednesday",
+            "opens": "09:00",
+            "closes": "17:00"
+          },
+          {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": "Thursday",
+            "opens": "09:00",
+            "closes": "17:00"
+          },
+          {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": "Friday",
+            "opens": "09:00",
+            "closes": "17:00"
+          }
+        ],
+        "serviceArea": [
+          {
+            "@type": "City",
+            "name": "Chicago",
+            "addressRegion": "IL",
+            "addressCountry": "US"
+          },
+          {
+            "@type": "City",
+            "name": "Libertyville",
+            "addressRegion": "IL",
+            "addressCountry": "US"
+          },
+          {
+            "@type": "AdministrativeArea",
+            "name": "Northern Illinois",
+            "addressRegion": "IL",
+            "addressCountry": "US"
+          }
+        ],
+        "hasOfferCatalog": {
+          "@type": "OfferCatalog",
+          "name": "Bathroom Remodeling Services",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "Complete Bathroom Remodeling",
+                "description": "Full-service luxury bathroom renovation and remodeling"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "Tub to Shower Conversion",
+                "description": "Professional bathtub to shower conversion services"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "Custom Shower Installation",
+                "description": "High-end custom shower design and installation"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "Bathroom Design Consultation",
+                "description": "Professional bathroom design planning and consultation"
+              }
+            }
+          ]
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5.0",
+          "reviewCount": "0",
+          "bestRating": "5",
+          "worstRating": "1"
         }
       }
     </script>
+
+  <!-- FAQ Schema -->
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How much does bathroom remodeling cost?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Bathroom remodeling costs vary depending on the scope of work, materials chosen, and bathroom size. Our luxury bathroom renovations typically range from mid-range to high-end pricing, with custom solutions available to fit different budgets. We provide detailed estimates during our free consultation process."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does a bathroom renovation take?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Most bathroom remodeling projects take 2-4 weeks to complete, depending on the complexity and scope of work. Tub-to-shower conversions typically take 1-2 weeks, while full luxury bathroom renovations may take 3-4 weeks. We provide a detailed timeline during project planning."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you provide design services?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, Facet Renovations offers comprehensive bathroom design services including 3D design consultation, material selection, fixture planning, and smart home integration. Our design experts work with you to create a luxury bathroom that matches your vision and functional needs."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What areas do you serve?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Facet Renovations serves Chicago and Northern Illinois, including Libertyville and surrounding communities. We focus on providing high-quality bathroom remodeling services throughout the greater Chicago metropolitan area."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is included in your tub-to-shower conversion service?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Our tub-to-shower conversion service includes complete removal of your existing bathtub, professional plumbing modifications, waterproofing, tile installation, custom shower fixtures, glass enclosure installation, and final finishing. We ensure a seamless transformation from tub to luxury shower."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you offer financing options?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, we offer flexible financing options to make your dream bathroom renovation more accessible. Contact us during your consultation to discuss financing plans that work with your budget."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What warranties do you provide?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Facet Renovations stands behind our work with comprehensive warranties on both materials and workmanship. Specific warranty details vary by project scope and materials used, and we'll provide detailed warranty information during your consultation."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can you integrate smart home technology in bathroom remodeling?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Absolutely! We specialize in smart home bathroom integration including smart lighting, temperature controls, digital shower systems, smart mirrors, and automated fixtures. Our team can seamlessly integrate modern technology into your luxury bathroom design."
+          }
+        }
+      ]
+    }
+  </script>
 
   <!-- Preload critical assets -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
