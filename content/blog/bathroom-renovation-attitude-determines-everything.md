@@ -15,7 +15,7 @@ Your mindset going into a bathroom renovation project will make or break the ent
 
 This isn't some feel-good nonsense about positive thinking. This is about recognizing that renovation projects are tests of patience, decision-making, and problem-solving. Get your head right from day one, or you're setting yourself up for weeks of frustration, cost overruns, and disappointing results.
 
-## Keep Expectations Realistic
+### Keep Expectations Realistic
 
 Fantasy doesn't renovate bathrooms. Reality does.
 
@@ -28,21 +28,20 @@ Here's what actually happens during bathroom renovations:
 
 The homeowners who thrive during renovations? They expect these challenges and plan for them. The ones who struggle? They thought this would be easy.
 
-## How to Stay Sane During Demo and Construction
-
+#### How to Stay Sane During Demo and Construction
 Obviously, every renovation is different, but here are a few strategies our best clients use to maintain their sanity:
 
-### Set Up a Temporary Routine
+#### Set Up a Temporary Routine
 Your normal bathroom routine is gone for 2-4 weeks minimum. Accept this reality and create a new one. Set up a temporary vanity area in your bedroom. Establish shower schedules if you're sharing one bathroom. Don't wing it—plan it.
 
 Living in chaos doesn't have to feel chaotic if you create structure around it.
 
-### Communicate Problems Early
+#### Communicate Problems Early
 That small crack in the subfloor isn't going to fix itself while you hope nobody notices. Neither is your concern about the tile installation looking "off."
 
 Address issues the moment you spot them. Professional renovation companies appreciate clients who communicate clearly about concerns. Less professional outfits... well, you'll find out who you're working with pretty quickly.
 
-### Remember Why You Started This Project
+#### Remember Why You Started This Project
 When you're on week three of brushing your teeth at the kitchen sink, it's easy to forget that you wanted this renovation. Take five minutes to remind yourself:
 
 - What problem were you trying to solve?
@@ -51,12 +50,12 @@ When you're on week three of brushing your teeth at the kitchen sink, it's easy 
 
 This isn't meditation mumbo-jumbo. It's practical perspective maintenance.
 
-### Trust Your Professional Renovation Team (If You Picked the Right One)
+#### Trust Your Professional Renovation Team (If You Picked the Right One)
 Micromanaging skilled tradespeople is like trying to direct a surgeon during an operation. It doesn't help anyone.
 
 If you hired a professional renovation company, let them work. Check in on progress, ask questions about decisions, but don't hover over every installation detail. You hired them for their expertise—use it.
 
-## When Things Go Wrong (And They Will)
+### When Things Go Wrong (And They Will)
 
 Problems during renovations aren't failures—they're part of the process. Old houses have old surprises. New materials sometimes arrive damaged. Skilled workers occasionally make mistakes.
 
@@ -68,8 +67,10 @@ The difference between a successful renovation and a nightmare project isn't whe
 
 **Know when to compromise.** That perfect tile that's backordered for six weeks? Maybe the 95% perfect alternative that's in stock is the smarter choice.
 
-## Key Takeaways
+### Key Takeaways
 
 Maintaining the right mindset during a bathroom renovation isn't optional—it's essential for getting the results you want without losing your sanity.
 
-Remember: every gorgeous bathroom you've ever admired went through weeks of looking like a construction disaster. The difference is the homeowner kept their eyes on the end goal.
+Remember: every gorgeous bathroom you've ever admired went through weeks of looking like a construction disaster. The difference is the homeowner kept their eyes on the end goal
+
+. . . or just went out of town for a few days.
