@@ -1,7 +1,7 @@
 ---
 title: "Why Your Bathroom Renovation Attitude Determines Everything"
 slug: "bathroom-renovation-attitude-determines-everything"
-date: "2025-01-15"
+date: "2025-08-15"
 excerpt: "Your mindset during a bathroom renovation project will make or break the entire experience. Here's why attitude is everything."
 featuredImage: "/blog/images/attitude-renovation-hero.png"
 tags: ["mindset", "renovation-process", "homeowner-tips"]
