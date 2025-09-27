@@ -96,6 +96,36 @@
     <priority>0.6</priority>
   </url>
   
+  <!-- Blog Section -->
+  <url>
+    <loc>https://facetrenovations.us/blog</loc>
+    <lastmod>2025-09-27T03:57:00-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Blog Posts -->
+  <url>
+    <loc>https://facetrenovations.us/blog/walk-in-shower-installation-chicagoland</loc>
+    <lastmod>2025-09-27T03:57:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <url>
+    <loc>https://facetrenovations.us/blog/bathroom-renovation-attitude-determines-everything</loc>
+    <lastmod>2025-06-05T00:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://facetrenovations.us/blog/bathroom-trends-add-value-chicago-homes</loc>
+    <lastmod>2025-07-31T00:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
   <url>
     <loc>https://facetrenovations.us/financing</loc>
     <lastmod>2025-09-13T00:26:52-05:00</lastmod>

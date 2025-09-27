@@ -1,7 +1,7 @@
 ---
 title: "5 Bathroom Trends That Actually Add Value to Your Chicago Home"
 slug: "bathroom-trends-add-value-chicago-homes"
-date: "2025-09-25"
+date: "2025-07-31"
 excerpt: "Not all bathroom trends are worth the investment. Here are the five upgrades that Chicago buyers actually pay more for."
 featuredImage: "/blog/images/bathroom-roi-trends-hero.jpg"
 tags: ["home-value", "bathroom-trends", "investment-tips"]
