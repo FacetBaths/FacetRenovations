@@ -6,6 +6,43 @@
   <meta charset="UTF-8" />
   <link rel="icon" type="image/svg+xml" href="/favicon.png" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  
+  <!-- Content Security Policy for Analytics and Tracking -->
+  <meta http-equiv="Content-Security-Policy" content="
+    default-src 'self';
+    script-src 'self' 'unsafe-inline' 'unsafe-eval'
+      https://www.googletagmanager.com
+      https://www.google-analytics.com
+      https://connect.facebook.net
+      https://static.ads-twitter.com
+      https://ads-twitter.com
+      https://ads-api.twitter.com
+      https://analytics.twitter.com;
+    connect-src 'self'
+      https://www.google-analytics.com
+      https://analytics.google.com
+      https://www.facebook.com
+      https://connect.facebook.net
+      https://static.ads-twitter.com
+      https://ads-twitter.com
+      https://ads-api.twitter.com
+      https://analytics.twitter.com
+      https://*.railway.app;
+    img-src 'self' data: blob:
+      https://www.google-analytics.com
+      https://www.googletagmanager.com
+      https://www.facebook.com
+      https://static.ads-twitter.com
+      https://ads-twitter.com
+      https://ads-api.twitter.com
+      https://analytics.twitter.com;
+    style-src 'self' 'unsafe-inline'
+      https://fonts.googleapis.com;
+    font-src 'self'
+      https://fonts.gstatic.com;
+    frame-src
+      https://www.googletagmanager.com;
+  ">
   <title>Facet Renovations - Luxury Bathroom Remodeling | Chicago Area</title>
   <meta name="description"
     content="Transform your bathroom into a luxury retreat with Facet Renovations. Expert bathroom remodeling in Chicago and surrounding areas. Free consultation available.">
