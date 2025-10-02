@@ -301,30 +301,43 @@
     });
   </script>
 
-  <!-- Facebook Pixel -->
+  <!-- Facebook Pixel - Loaded dynamically by analytics.ts -->
   <script>
-    try {
-      !function (f, b, e, v, n, t, s) {
-        if (f.fbq) return; n = f.fbq = function () {
-          n.callMethod ?
-          n.callMethod.apply(n, arguments) : n.queue.push(arguments)
-        };
-        if (!f._fbq) f._fbq = n; n.push = n; n.loaded = !0; n.version = '2.0';
-        n.queue = []; t = b.createElement(e); t.async = !0;
-        t.src = v; s = b.getElementsByTagName(e)[0];
-        s.parentNode.insertBefore(t, s)
-      }(window, document, 'script',
-        'https://connect.facebook.net/en_US/fbevents.js');
-      if (window.fbq) {
-        fbq('init', '123456789012345');
-        fbq('track', 'PageView');
+    !function (f, b, e, v, n, t, s) {
+      if (f.fbq) return; n = f.fbq = function () {
+        n.callMethod ?
+        n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+      };
+      if (!f._fbq) f._fbq = n; n.push = n; n.loaded = !0; n.version = '2.0';
+      n.queue = []; t = b.createElement(e); t.async = !0;
+      t.src = v; s = b.getElementsByTagName(e)[0];
+      s.parentNode.insertBefore(t, s)
+    }(window, document, 'script',
+      'https://connect.facebook.net/en_US/fbevents.js');
+  </script>
+
+  <!-- Twitter conversion tracking base code -->
+  <script>
+    !function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+    },s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='https://static.ads-twitter.com/uwt.js',
+    a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+    twq('config','p5vjv');
+  </script>
+  <!-- End Twitter conversion tracking base code -->
+
+  <!-- Twitter conversion tracking event code -->
+  <script type="text/javascript">
+    // Twitter conversion event helper function
+    function trackTwitterConversion(eventType) {
+      if (typeof twq === 'function') {
+        twq('event', 'tw-p5vjv-p5vjv', {
+          event_type: eventType || 'contact_form_interaction'
+        });
       }
-    } catch (e) {
-      // Facebook Pixel blocked or failed - continue silently
-      console.log('Facebook Pixel not available (likely blocked by ad blocker)');
     }
   </script>
-  <script type="module" crossorigin src="/assets/index-DhwVBckU.js"></script>
+  <!-- End Twitter conversion tracking event code -->
+  <script type="module" crossorigin src="/assets/index-4WbqcQng.js"></script>
   <link rel="modulepreload" crossorigin href="/assets/vendor-Chug0_5r.js">
   <link rel="modulepreload" crossorigin href="/assets/animations-DFhqjjrW.js">
   <link rel="stylesheet" crossorigin href="/assets/index-Cp0bZi89.css">
@@ -339,7 +352,7 @@
   <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W2L4TQ4Q" height="0" width="0"
       style="display:none;visibility:hidden"></iframe></noscript>
   <!-- End Google Tag Manager (noscript) -->
-  <!-- Facebook Pixel (noscript) -->
+  <!-- Facebook Pixel (noscript) - Static fallback for environment -->
   <noscript><img height="1" width="1" style="display:none"
       src="https://www.facebook.com/tr?id=123456789012345&ev=PageView&noscript=1" /></noscript>
 
